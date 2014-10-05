@@ -17,7 +17,7 @@ How are you?
 
 #include<stdio.h>
 int main(){
-	printf("Hello!\n");
-	printf("How are you?");
-	return 0;
+    printf("Hello!\n");
+    printf("How are you?");
+    return 0;
 }
