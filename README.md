@@ -8,7 +8,7 @@ c-programming-class-answers
 仅供参考  
 ___  
 **作业**  
-[1-1](https://github.com/sunlei99/c-programming-class-answers/blob/master/src/1-1.c "1")
+[1-1](https://github.com/sunlei99/c-programming-class-answers/blob/master/src/1-1.c)
 [1-2](https://github.com/sunlei99/c-programming-class-answers/blob/master/src/1-2.c)
 [1-3](https://github.com/sunlei99/c-programming-class-answers/blob/master/src/1-3.c)  
 [2-1](https://github.com/sunlei99/c-programming-class-answers/blob/master/src/2-1.c)
