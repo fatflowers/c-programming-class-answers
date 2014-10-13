@@ -30,16 +30,16 @@
 #include<stdio.h>
 
 int main(){
-	int ndays;
+    int ndays;
 
-	scanf("%d", &ndays);
-	// 如果输入的是非负数，则正常处理，否则返回-1，代表错误
-	if(ndays >= 0){
-		printf("%d days are %d weeks,%d days.\n", ndays, ndays / 7, ndays % 7);
-	}
-	else{
-		return -1;
-	}
+    scanf("%d", &ndays);
+    // 如果输入的是非负数，则正常处理，否则返回-1，代表错误
+    if(ndays >= 0){
+        printf("%d days are %d weeks,%d days.\n", ndays, ndays / 7, ndays % 7);
+    }
+    else{
+        return -1;
+    }
 
-	return 0;
+    return 0;
 }
