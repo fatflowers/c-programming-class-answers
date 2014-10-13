@@ -29,13 +29,13 @@
 
 int main(){
     float a, b, c, s;
-	scanf("%f %f %f", &a, &b, &c);
-	// 不满足三角形的条件
-	if(!((a + b > c) && (a + c > b) && (b + c > a)))
-		return -1;
+    scanf("%f %f %f", &a, &b, &c);
+    // 不满足三角形的条件
+    if(!((a + b > c) && (a + c > b) && (b + c > a)))
+        return -1;
 	
-	s = (a + b + c) / 2;
-	printf("%.2f\n", sqrt(s * (s - a) * (s - b) * (s - c)));
+    s = (a + b + c) / 2;
+    printf("%.2f\n", sqrt(s * (s - a) * (s - b) * (s - c)));
 
-	return 0;
+    return 0;
 }
